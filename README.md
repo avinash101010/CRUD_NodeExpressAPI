@@ -1,14 +1,16 @@
 # CRUD_NodeExpressAPI
-A simple CRUD application build using Node and Express
+A simple CRUD application built using Node and Express.
 
-#Pre Installations
-1.npm i express
-2.npm i nodemon
-3.npm i mongoose
-4.npm i dotenv
-Write your .env file
+## Pre Installations
+1. `npm i express`
+2. `npm i nodemon`
+3. `npm i mongoose`
+4. `npm i dotenv`
 
-#Quick Start
-Navigate to the root directory and run the command "npm run ra" to start the backend.
+Write your `.env` file with the necessary environment variables.
 
+## Quick Start
+Navigate to the root directory and run the command:
 
+```sh
+npm run ra
