@@ -1,5 +1,5 @@
 # CRUD_NodeExpressAPI
-A simple CRUD application built using Node and Express.
+A simple CRUD application built using Node, Express and Mongoose.
 
 ## Pre Installations
 1. `npm i express`
